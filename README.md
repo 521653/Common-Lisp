@@ -1,1 +1,2 @@
-# Common-Lisp
+Programmation fonctionnelle
+Common Lisp (clisp)
